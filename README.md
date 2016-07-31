@@ -30,3 +30,8 @@ http://www.imooc.com/
 要求Adapter使用ViewHolder，并且判断ConvertView是否为空
 ## 第三次
 
+# Tips
+## 设置git的默认编辑器为sublimetext
+$ git config --global core.editor "'D:/Android/tools/Sublime Text 3/sublime_text.exe' -w"
+
+
