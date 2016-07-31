@@ -1,6 +1,10 @@
 
+<<<<<<< HEAD
 # 各种地址
 
+=======
+# 各种地址9
+>>>>>>> upstream/master
 ## 国内的android工具下载地址
 www.androiddevtools.cn
 ## Android官网文档地址
@@ -30,4 +34,9 @@ http://www.imooc.com/
 参照《第一行代码》，用ListView显示水果的图片和名称，并且可以点击某个item，toast当前点击水果的名称。
 要求Adapter使用ViewHolder，并且判断ConvertView是否为空
 ## 第三次
+
+# Tips
+## 设置git的默认编辑器为sublimetext
+$ git config --global core.editor "'D:/Android/tools/Sublime Text 3/sublime_text.exe' -w"
+
 
