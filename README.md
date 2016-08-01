@@ -28,7 +28,9 @@ http://www.imooc.com/
 ## 第二次
 参照《第一行代码》，用ListView显示水果的图片和名称，并且可以点击某个item，toast当前点击水果的名称。
 要求Adapter使用ViewHolder，并且判断ConvertView是否为空
-## 第三次
+## 第三次  多线程
+新建项目，在MainActivity上，摆放ImageView,ProgressBar,Button1和Button2，点击Button1，在新线程中循环10次，每次sleep 1秒钟，并update MainActivity上的progressbar。要求用AsycnTask和Handler两种方式实现
+
 
 # Tips
 ## 设置git的默认编辑器为sublimetext
